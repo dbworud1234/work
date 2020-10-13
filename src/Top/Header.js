@@ -6,7 +6,7 @@ function Header() {
         <Container>
             <Element>
                 <span background-size = "contain">
-                    <img src = '/images/walk.png' alt="walk" height = "400px" width = "1080px" resize = "both"/>
+                    <img src = '/work/images/walk.png' alt="walk" height = "400px" width = "1080px" resize = "both"/>
                 </span>
             </Element>
         </Container>
