@@ -2,7 +2,11 @@
   "name": "assignment",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://dbworud1234.github.io/work/",
+=======
+  "homepage": "https://dbworud1234.github.io/work",
+>>>>>>> 3cb45fd1fa4eed913c8a1c6740dac00f7d8b3b2d
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
