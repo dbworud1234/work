@@ -1,13 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
-const img = require('./walk.png')
+import WalkImage from '../public/walk.png';
 
 function Header() {
     return (
         <Container>
             <Element>
                 <span background-size = "contain">
-                    <img src={img} alt="walk" height = "400px" width = "1080px" resize = "both"/>
+                    <img src={WalkImage} alt="walk" height = "400px" width = "1080px" resize = "both"/>
                 </span>
             </Element>
         </Container>
