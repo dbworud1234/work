@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import img from './walk.png';
+const img = require('./walk.png')
 
 function Header() {
     return (
