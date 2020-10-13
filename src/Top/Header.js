@@ -1,13 +1,12 @@
 import React from 'react';
 import styled from 'styled-components';
-import mypng from '../../images/walk.png';
 
 function Header() {
     return (
         <Container>
             <Element>
                 <span background-size = "contain">
-                    <img src={mypng} alt="walk" height = "400px" width = "1080px" resize = "both"/>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvB5A3MB176zW31hG6-lVpwwoC0TKvKK0EKA&usqp=CAU" alt="walk" height = "400px" width = "1080px" resize = "both"/>
                 </span>
             </Element>
         </Container>
